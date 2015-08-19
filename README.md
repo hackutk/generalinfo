@@ -15,4 +15,4 @@
 
 ###Meeting Information:
 - Schedule:
-  - Augusy 19th, 2015 - What is HackUTK? at Welcome Back Day 2015.
+  - August 19th, 2015 - What is HackUTK? at Welcome Back Day 2015.
