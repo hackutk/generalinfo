@@ -17,6 +17,9 @@
 ###Website: 
 - [hackutk.com](hackutk.com)
 
+###Ping us!
+- [email us at hackutk@gmail.com](mailto:hackutk@gmail.com)
+
 ###Meeting Information:
 - Schedule:
   - August 19th, 2015 - What is HackUTK? at Welcome Back Day 2015.
