@@ -12,3 +12,7 @@
   - http://www.everybodyhertz.co.uk/slack-and-irc/
 
 ###Website: [hackutk.com](hackutk.com)
+
+###Meeting Information:
+- Schedule:
+  - Augusy 19th, 2015 - What is HackUTK? at Welcome Back Day 2015.
