@@ -1,5 +1,8 @@
 # General information about HackUTK
 
+###Social Media:
+- [Follow us on Twitter!](https://twitter.com/hackutk)
+
 ###Slack:
 - Join the Slack channel [here](http://hackutk.herokuapp.com/).
 - Download the appropriate client [here](https://slack.com/apps) or just use the web interface [here](hackutk.slack.com).
@@ -11,7 +14,8 @@
   - https://ekmartin.com/2015/slack-irc/
   - http://www.everybodyhertz.co.uk/slack-and-irc/
 
-###Website: [hackutk.com](hackutk.com)
+###Website: 
+- [hackutk.com](hackutk.com)
 
 ###Meeting Information:
 - Schedule:
