@@ -2,7 +2,7 @@
 
 ###Slack:
 - Join the Slack channel [here](http://hackutk.herokuapp.com/).
-- We **HIGHLY** recommend Slack for beginniners. If you ever want to connect Slack to an IRC client of your choice then you can follow the following links:
+- We **HIGHLY** recommend Slack for beginniners. If you ever want to connect Slack to an IRC client of your choice then you can check out these links:
   - https://slack.zendesk.com/hc/en-us/articles/201727913-Connecting-to-Slack-over-IRC-and-XMPP
   - https://github.com/ekmartin/slack-irc
   - http://www.pilgrimbreak.com/how-to-access-slack-with-command-line-irc-client-irssi/
