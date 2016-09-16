@@ -1,5 +1,11 @@
 # General information about HackUTK
 
+### Website: 
+- [https://hackutk.com](hackutk.com)
+
+### Calendar:
+- [https://hackutk.com/calendar.html](https://hackutk.com/calendar.html)
+
 ### Social Media:
 - [Follow us on Twitter!](https://twitter.com/hackutk)
 
@@ -14,11 +20,5 @@
   - https://ekmartin.com/2015/slack-irc/
   - http://www.everybodyhertz.co.uk/slack-and-irc/
 
-### Website: 
-- [https://hackutk.com](hackutk.com)
-
 ### Ping us!
-- [email us at hackutk@gmail.com](mailto:hackutk@gmail.com)
-
-### Calendar:
-- [https://hackutk.com/calendar.html](https://hackutk.com/calendar.html)
+- [Email us at hackutk@gmail.com](mailto:hackutk@gmail.com)
